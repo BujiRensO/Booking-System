@@ -1,0 +1,12 @@
+C:\Users\user\OneDrive\Desktop\git\Booking\Booking.Module\bin\Debug\net8.0\Booking.Module.deps.json
+C:\Users\user\OneDrive\Desktop\git\Booking\Booking.Module\bin\Debug\net8.0\Booking.Module.dll
+C:\Users\user\OneDrive\Desktop\git\Booking\Booking.Module\bin\Debug\net8.0\Booking.Module.pdb
+C:\Users\user\OneDrive\Desktop\git\Booking\Booking.Module\obj\Debug\net8.0\Booking.Module.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\git\Booking\Booking.Module\obj\Debug\net8.0\Booking.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\git\Booking\Booking.Module\obj\Debug\net8.0\Booking.Module.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\git\Booking\Booking.Module\obj\Debug\net8.0\Booking.Module.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\git\Booking\Booking.Module\obj\Debug\net8.0\Booking.Module.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\git\Booking\Booking.Module\obj\Debug\net8.0\Booking.Module.dll
+C:\Users\user\OneDrive\Desktop\git\Booking\Booking.Module\obj\Debug\net8.0\refint\Booking.Module.dll
+C:\Users\user\OneDrive\Desktop\git\Booking\Booking.Module\obj\Debug\net8.0\Booking.Module.pdb
+C:\Users\user\OneDrive\Desktop\git\Booking\Booking.Module\obj\Debug\net8.0\ref\Booking.Module.dll

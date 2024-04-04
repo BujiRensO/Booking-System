@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <NavigationItems NavigationStyle="Accordion">
+    <Items>
+      <Item Id="KPI" Removed="True" />
+      <Item Id="Reports">
+        <Items>
+          <Item Id="Analysis_ListView" Removed="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+  <SchemaModules>
+    <SchemaModule Name="CloneObjectModule" Version="23.2.5.0" IsNewNode="True" />
+    <SchemaModule Name="SchedulerModuleBase" Version="23.2.5.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="23.2.5.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views DefaultListEditor="DevExpress.ExpressApp.Blazor.Editors.DxGridListEditor">
+    <DetailView Id="Address_DetailView">
+      <Layout>
+        <LayoutGroup Id="Main" RelativeSize="100">
+          <LayoutGroup Id="SimpleEditors" RelativeSize="100">
+            <LayoutGroup Id="Address" RelativeSize="92.0086393088553">
+              <LayoutItem Id="City" Index="0" RelativeSize="7.981220657276995" />
+              <LayoutGroup Id="Autoa6870094-e493-44da-8792-58a430fcd411" ShowCaption="False" Caption="" Direction="Horizontal" Index="1" RelativeSize="18.309859154929576" IsNewNode="True">
+                <LayoutGroup Id="Autod25e5a0d-8926-4564-9daa-597e907d130f" ShowCaption="False" Caption="" Index="0" RelativeSize="98.75776397515529" IsNewNode="True">
+                  <LayoutItem Id="AddressLine" ViewItem="AddressLine" Index="0" RelativeSize="33.333333333333336" IsNewNode="True" />
+                  <LayoutItem Id="PostalCode" ViewItem="PostalCode" Index="1" RelativeSize="33.333333333333336" IsNewNode="True" />
+                  <LayoutItem Id="Region" ViewItem="Region" Index="2" RelativeSize="33.333333333333336" IsNewNode="True" />
+                </LayoutGroup>
+                <LayoutGroup Id="Auto78ffd381-0c91-4eb6-8bb2-10d8e8c11a93" ShowCaption="False" Caption="" Index="1" RelativeSize="1.2422360248447204" IsNewNode="True">
+                  <LayoutItem Id="Country" Index="0" RelativeSize="33.333333333333336" IsNewNode="True" />
+                  <LayoutItem Id="FullAddress" Index="1" RelativeSize="33.333333333333336" IsNewNode="True" />
+                  <LayoutItem Id="StateProvince" Index="2" RelativeSize="33.333333333333336" IsNewNode="True" />
+                </LayoutGroup>
+              </LayoutGroup>
+              <LayoutItem Id="FullAddress" Index="2" RelativeSize="6.103286384976526" Removed="True" />
+              <LayoutItem Id="Province" ViewItem="Province" Index="2" RelativeSize="6.103286384976526" IsNewNode="True" />
+              <LayoutItem Id="StateProvince" Index="2" RelativeSize="42.48826291079812" Removed="True" />
+              <LayoutItem Id="District" ViewItem="District" Index="3" RelativeSize="6.103286384976526" IsNewNode="True" />
+              <LayoutItem Id="Street" Index="4" RelativeSize="18.309859154929576" />
+              <LayoutItem Id="ZipPostal" Index="5" RelativeSize="43.1924882629108" />
+              <LayoutItem Id="Country" Removed="True" />
+            </LayoutGroup>
+            <LayoutGroup Id="XPObject" RelativeSize="7.991360691144709" Caption="Oid">
+              <LayoutItem Id="Oid" RelativeSize="100" Removed="True" />
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>
